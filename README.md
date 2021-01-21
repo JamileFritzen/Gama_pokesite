@@ -7,3 +7,7 @@ Desafio Gama Academy - criação de um site com todos os pokemon
 - Jamile Fritzen
 - Shirleide da Silva
 - Teresa Santiago
+
+
+
+Site em React. Necessário instalar Axios para funcionar
