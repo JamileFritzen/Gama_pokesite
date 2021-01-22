@@ -17,6 +17,12 @@ export default class App extends Component {
   render(){
     return(
       <React.Fragment>
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+          <a className="navbar-brand">
+            <img id="" src="midia/iconepokebola2.png"></img>
+              POKÉMON
+          </a> 
+        </nav>
         {this.state.pokemon ? (
           <div className="row">
             {this.state.pokemon.map(pokemon => (
