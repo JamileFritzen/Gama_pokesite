@@ -1,0 +1,24 @@
+{
+  "name": "gama_pokesite",
+  "version": "1.0.0",
+  "description": "Desafio Gama Academy - criação de um site com todos os pokemon",
+  "main": "App.js",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-axios": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamileFritzen/Gama_pokesite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamileFritzen/Gama_pokesite/issues"
+  },
+  "homepage": "https://github.com/JamileFritzen/Gama_pokesite#readme"
+}
