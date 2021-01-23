@@ -36,6 +36,7 @@ export default class PokemonCard extends Component {
                     <img src={this.state.imageUrl}/>
                     <h2>{name}</h2>
                     <h5>{this.state.pokemonIndex}</h5>
+                    <button type="button">Capturar</button>
                 </div>
             </div>
         )
