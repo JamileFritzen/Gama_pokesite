@@ -15,3 +15,17 @@ code {
 body {
   background-color:rgb(252, 248, 43);
 }
+
+div.card{
+  text-align: center;
+  width: 238.02px;
+  height: 345px;
+}
+.namepok{
+  font-size: 20px;
+}
+
+.imgpok {
+  width: 238.02px;
+  height: 250px;
+}

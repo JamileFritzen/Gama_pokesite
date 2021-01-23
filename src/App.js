@@ -2,10 +2,11 @@ import './App.css';
 import axios from 'axios';
 import React,{Component} from 'react';
 import PokemonCard from './PokemonCard';
+// import PokemonList from './PokemonList';
 
 export default class App extends Component {
   state = {
-    url: "https://pokeapi.co/api/v2/pokemon/?limit=1118",
+    url: "https://pokeapi.co/api/v2/pokemon/?limit=20",
     pokemon: null
   };
 
